@@ -1,0 +1,412 @@
+---
+title: "Infant Incubator"
+title-slide-attributes:
+    data-background-image: logo.png
+    data-background-size: 10%
+    data-background-opacity: "0.9"
+    data-background-position: top right
+    
+subtitle: "Literature Survey, Market Analysis (2023 to 2032), Electronics, Jaundice & Phototherapy"
+author: 
+  - name: "**Karthik**"
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    incremental: true
+    smaller: true
+    theme: default
+    
+    auto-animate: true
+    transition: convex
+    background-transition: fade
+    
+    multiplex: true
+---
+
+# WHO's Thermal Protection of Newborn: Notes
+
+::: footer
+Reference: <https://www.who.int/publications/i/item/WHO_RHT_MSM_97.2>
+:::
+
+## Introduction
+
+-   Hypothermia - significant cause of neonatal illness and death, and has been described in low birth weight as well as normal newborns.
+
+-   This situation results more from lack of knowledge than from lack of equipment.
+
+-   In health facilities where managers and health workers have not received training in thermal protection, the policies and procedures necessary for maintaining a suitable thermal environment for newborn babies are lacking, and harmful practices are common.
+
+::: footer
+The countries where the guidelines were field tested are: `Brazil`, `China`, `India`, `Indonesia`, `Kazakhstan`, `Nepal`, `Mozambique` and `Zimbabwe`.
+:::
+
+## Why: Thermal Protection of Newborn
+
+-   Thermal protection - series of measures taken at birth and in the first days of life to ensure a normal body temperature of $36.5—37.50^{o} C$
+
+-   Temperature inside the mother’s womb is $38^{o}C$
+
+-   Wet newborn finds itself in a much colder environment and immediately starts losing heat.
+
+## How Newborn loses heat
+
+-   4 different ways:
+
+    -   Mainly - **Evaporation** of amniotic fluid from the baby’s body.
+    -   **Conduction** - if the baby is placed naked on a cold surface (e.g. a table, weighing scale or cold mattress)
+    -   **Convection** - if the naked newborn is exposed to cooler surrounding: **Air**
+        -   Heat loss increases with air movement: **Draught**
+            -   Baby risks getting cold **even at a room temperature of 30°C** if there is a draught.
+    -   **Radiation** - from baby to cooler objects in the vicinity (e.g. a cold wall or a window) even if baby is not touching.
+
+-   In the **first 10—20 minutes**, the newborn who is not thermally protected may lose enough heat for the body temperature to **fall by 2—4°C**
+
+-   *Comparision*: naked baby exposed to an environmental **temperature of 23°C at birth**, suffers the same heat loss **as does a naked adult at 0°C**
+
+## Inference
+
+-   Baby size $\propto$ Tolerance to temperature range outside normal.
+-   There is **no single environmental temperature that is appropriate for all sizes**, gestational ages and conditions of newborn babies.
+-   Max tolerable air temperature is about 35°C for a naked baby.
+    -   Slightly less for a dressed baby.
+    -   Likely higher for low birth weight or sick babies.
+-   Delivery room temperature \~ 25 to 28 $^{o}C$
+-   Studies in hospitals have shown that physicians and trained assistants can judge the temperature of a newborn baby with reasonable accuracy, simply by **touching the feet**
+
+::: footer
+-   Large body surface area to weight
+-   Large head in proportion to the body
+-   Little subcutaneous fat — especially low birth weight babies ------- Risks of Heatloss for Infants
+:::
+
+## Hypothermia Ranges
+
+![](images/clipboard-3614974870.png){fig-align="center"}
+
+-   **Mild hypothermia**: 36 to 36.4 $^{o}C$ =\> Rewarmed by Skin to Skin Contact
+-   **Moderate hypothermia**: 32 to 35.9 $^{o}C$ =\> Need for Warming
+-   **Severe hypothermia**: \< 32 $^{o}C$
+
+## Effects of Hypothermia
+
+-   Enough evidences for *Prolonged hypothermia is linked to impaired growth*
+
+-   Sick or low birth weight babies admitted to neonatal units with hypothermia are more likely to die than those admitted with normal temperatures.
+
+-   Infant's skin becomes **cold all over the body**, the baby becomes **less active**, suckles poorly and has a **weak cry**.
+
+-   Severely hypothermic babies:
+
+    -   face and extremities may develop a **bright red colour**, even in non—white neonates.
+    -   **Sclerema** — hardening of the skin associated with reddening
+    -   **Oedema** — may occur on the back and limbs or over the whole body.
+    -   Baby becomes lethargic and develops slow, **shallow and irregular breathing** and a **slow heart beat**.
+
+## Some facts
+
+-   Separation of the mother and baby makes it more difficult to keep the newborn warm (**Skin to Skin Contact** higly recommended). Seperation also increases the risk of **hospital—acquired infections**. It has adverse effect on breast-feeding and bonding.
+
+-   Families and TBAs may also not be aware of the importance of **drying and wrapping** the newborn immediately after birth.
+
+-   High incidence of hypothermia has been reported in places with ambient temperatures of 26 to 30 ${^o}$C
+
+    -   =\> Low environmental temperatures are not necessary for the development of the condition.
+
+-   80% of the infants born in the Maternity Hospital in Kathmandu became hypothermic after birth and 50% remained hypothermic at 24 hours
+
+    -   =\> increasing the **delivery room temperature** reduces the incidence of hypothermia
+
+-   Large study of births in the provinces in China the incidence of **sclerema was 6.7 per thousand**
+
+    -   =\> Low temperature in the delivery room!
+
+## Management of Hypothermia
+
+-   if a warming device is used **baby should be clothed**: Incase of Equipment Failure, it helps.
+
+-   Every hypothermic newborn should therefore be assessed for infection.
+
+-   Blood circulation in the cold skin of babies is poor =\> Hot water bottles or hot stones can cause **Burns**
+
+## Hyperthermia and it's effects
+
+-   Causes **Dehydration** in Babies by increasing metabolic rate and the rate of water loss by evaporation.
+
+-   =\> Above 37.5 $^{o}C$ is Hyperthermia.
+
+-   Should not be confused with fever.
+
+-   Every Hyperthermic baby must be examined for Infection.
+
+-   Above 40°C
+
+    -   Recommended for Warm water bath water temperature \~ 2°C lower than the baby’s body temperature.
+
+-   Above 42°C =\> neurological damage.
+
+-   Rapid Breathing, Fast Heart Rate
+
+-   Restlessness and cries
+
+-   Vasodilation, Flushed face
+
+-   Gradually becomes Lethargic. Severe Hyperthermia: shock, convulsions and coma may occur.
+
+## Guidelines for Incubators
+
+-   Incubator Air Temperature: at **35 to 36°C**
+-   Temperature should be checked **every hour**: Both Baby' Body Temperature and Incubator's
+-   Incubators should **not be exposed to direct sunshine**
+-   Severe Hypothermic Babies: Fast rewarming over a few hours is preferable to slow rewarming over several days.
+-   **Incubator preffered areas**
+    -   Very small and/or Sick newborns
+    -   Easy observation of the naked infant if necessary, and isolation.
+-   **Incubator NOT preffered aspects**
+    -   Availability of Well trained staffs
+    -   Cleaned and disinfected regularly if they are to be: safe.
+    -   Barrier between mother and baby, delays bonding, makes breast—feeding difficult.
+    -   Reliable electricity supply. Expensive to buy, running costs are high.
+
+## Guidelines for using Incubators
+
+-   When a warming device is used, Baby must be taken out regularly for **intermittent skin—to—skin contact** with the mother.
+-   Newborns in warming devices should not be cared for naked, except when necessary.
+-   Equipment should be used in room temperatures of at least 25°C.
+    -   Because heat loss by radiation to the cold may exceed heat generated by the device.
+-   Health staff should not depend on the skin temperature sensor (patient probe)
+    -   It could be inaccurate or defective
+    -   It can become detached.
+-   Nursing staff must regulate and record the incubator air temperature regularly. Even if the incubator has heat—sensitive probes that monitor skin temperature, nursing staff must take the baby’s body temperature regularly (every 4—6 hours)
+-   Staff should make use of the port—holes and small inlets in the incubator.
+
+## Few more
+
+-   Baby should not be cared for in an incubator for **more than 7 days without the equipment being cleaned** and disinfected.
+-   Phototherapy by fluorescent tubes above the incubator can become overheated.
+-   Special attention should be given to the water reservoir.
+
+# Market Analysis
+
+-   Valued at **USD 672.1 Million in 2022** and Expected to reach **USD 1281.9 Million in 2032** at **CAGR 6.8%**
+
+    ![](images/clipboard-670512255.png){width="610"}
+
+::: footer
+Source: <https://datahorizzonresearch.com/infant-incubator-market-2674>
+:::
+
+## Projection
+
+-   North America - The largest market.
+
+![](images/clipboard-1528434872.png){fig-align="center"}
+
+## Market Segmentation
+
+-   By Product type
+
+    -   Transport Incubators
+
+    -   Neonatal incubators
+
+-   By Application
+
+    -   Hypothermia
+
+    -   Lower birth weight
+
+    -   Genetic defects & Others
+
+-   By End User
+
+    -   Hospitals
+
+    -   Clinics
+
+    -   Nursing homes
+
+## Major Players
+
+-   GE Healthcare
+-   Inspiration Healthcare Group plc.
+-   Natus Medical Incorporated.
+-   Koninklijke Philips N.V.
+-   Fisher & Paykel Healthcare
+-   International Biomedical Ltd.
+-   Dragerwerk AG & Co. KGaA.
+-   Atom Medical Corporation
+-   Novos Medical Systems
+-   Fanem Ltd.
+-   Pluss Advanced Technologies Pvt. Ltd.
+-   Weyer GmbH
+-   Medical Technology Transfer and Services in Asia
+-   BabyBloom Healthcare BV
+
+# Electronics
+
+## Sensors
+
+-   **Skin Temperature Probe**: YSI 400 Series
+
+-   **Relative Humidity and Temperature Sensor**: SHT4x
+
+-   **SpO2 and HeartRate**: MAX3010x
+
+-   **Oxygen sensor**: AO-08
+
+-   **Sound Sensor**: ADMP 401
+
+-   **ECG**: AD8232
+
+-   **Weight**: HX711 Load Cell (upto 10 KG)
+
+-   **Respiratory rate**: TN1132/ST Respiratory Belt Transducer
+
+-   **Phototherapy Intensity Sensor**: TSL2561 (LUX sensor) or VEML6075 (UV sensor)
+
+## Skin Temperature Probe
+
+-   **YSI 400 Series** Thermistor Based Reusable Probes - Medical Grade (by Cardio Beats LLP)
+-   **Range**: 0 ̊ to 60 ̊C
+-   **Accuracy**: ±0.2 ̊C from -1 ̊ to 60 ̊C, ±0.1 ̊C from 25 to 45 ̊C
+-   Exact Model in Series can be chosen from: <https://neurophysics.ucsd.edu/Manuals/YSI/YSI%20Series%20400%20Temperature%20Probe.pdf>
+
+::: footer
+-   [*Data Source*](https://www.plexishop.it/pdf/Hoskin%20Medical%20probes%20400-700.pdf?srsltid=AfmBOopQya4E9ZUdyIuwNhyN0iF_AHlwHNiF39H2af0e0SkK9qJ-YCBQ)
+-   [*IndiaMART Link*](https://www.indiamart.com/proddetail/ysi-400-series-skin-rectal-temperature-probe-adult-pediatric-neonate-ysi-400-extension-cable-2849326394148.html)
+:::
+
+## Temperature and Humidity Sensor
+
+-   **Relative Humidity (% RH)**: Amount of water vapour present in Air relative to Max it can contain, at the specific temperature.
+
+![](images/clipboard-180969302.png){fig-align="center" width="350" height="138"}
+
+-   **Accuracy**: ±0.1°C for temperature and ±1% for relative humidity (RH)
+-   **Resolution**: 16 bit
+-   **Operating Range**:
+-   1.08V to 3.6V Supply
+-   -40°C to 125°C
+-   Avg. current: 0.4 μA, Idle current: 80 nA
+-   Integrated Heater to remove condesation from sensor surface: **Creep Free Operation**
+
+::: footer
+-   [*Datasheet*](https://sensirion.com/media/documents/33FD6951/662A593A/HT_DS_Datasheet_SHT4x.pdf)
+-   [*Github*](https://github.com/GopikaTG/Sht45-/tree/main)
+:::
+
+## SpO2 and HeartRate
+
+-   MAX30101 - Red, Green and IR
+
+-   MAX30102 - Red and IR
+
+-   According to an IEEE paper: "The MAX30101 sensor was more accurate in measuring heart rate, `blood oxygen saturation` and respiration rate compared to the MAX30102. Additionally, we found that the red wavelength was best for measuring `heart rate` and the green wavelength was best for `respiration rate.`"
+
+-   Operating points:
+
+    -   single 1.8V power supply and a separate 5.0V (for MAX30101, 3.3V for MAX30102) power supply for the internal LEDs.
+    -   -40 to 85 C
+
+-   Low-Power Heart-Rate Monitor (\< 1mW)
+
+-   Ultra-Low Shutdown Current (0.7μA, typ)
+
+::: footer
+-   [*Specs*](https://pdfserv.maximintegrated.com/en/an/AN6409.pdf)
+-   [*IEEE paper*](https://ieeexplore.ieee.org/document/8956987)
+-   [*MAX30101 Datasheet*](https://www.analog.com/media/en/technical-documentation/data-sheets/max30101.pdf)
+:::
+
+## Oxygen Sensor
+
+-   AO-08 Medical grade Electrochemical Oxygen Sensor. Meets ISO 80601-2-55
+-   AO-09, AO-08, AO-07 different in Connector type. Maybe decide which to pick based on `Corrosion` as factor for the Connector?
+
+![](images/clipboard-3053057444.png){fig-align="center" width="602" height="423"}
+
+::: footer
+-   [*Robu link*](https://robu.in/product/oxygen-sensor-model-ao-08/?gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKajxutMGmYR9I5a_Y9QLvSFsq-AWeqirsOC9QyEt-OoBSmcOmtjcsMaAqG3EALw_wcB)
+-   [*Datasheet*](https://asairsensors.com/wp-content/uploads/2021/09/Data-Sheet-AO-08-Oxygen-Sensor-ASAIR-V1.0.0.pdf)
+:::
+
+## Respiratory Rate Measurement
+
+-   TN1132/ST Respiratory Belt generates a voltage when there is a change in thoracic or abdominal circumference due to respiration.
+
+-   **MR Unsafe**: poses hazards in all MRI environments.
+
+![](images/clipboard-4192520194.png){fig-align="center" width="540" height="195"}
+
+-   Software Selectable Low Pass Filter: 5Hz or 2Hz (
+
+::: footer
+-   [Data card](https://m-cdn.adinstruments.com/product-data-cards/TN1132-DCW-18A.pdf)
+-   [Product Link](https://www.adinstruments.com/products/respiratory-belt-transducer)
+:::
+
+## Phototherapy Light Intensity Sensor
+
+![](images/clipboard-4142793913.png){fig-align="center" width="348" height="273"}
+
+-   Recommended range: 460nm to 495nm.
+-   **VEML6030** Ambient Light sensor, a 16bit ADC
+-   Operating range: VDD : 2.5 V to 3.6 V
+
+::: footer
+-   [Robu link](https://robu.in/product/smartelex-ambient-light-sensor-veml6030/?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQthqiGd--kYrizBqt08cprqOVZmbZ8tDnt7YbOoubFM42xUFKETKZUaApT5EALw_wcB)
+-   [Target Product Profile for Phototherapy Light By UNICEF](https://www.unicef.org/supply/media/2926/file/phototherapy-light-TPP.pdf)
+:::
+
+# Jaundice and Phototherapy
+
+## Stats
+
+-   Yellowish discolouration of skin and sclera
+
+-   Due to immature livers, More RBC levels and shorter RBC lifespan (\< 120 days) in Newborns, Jaundice is predominant.
+
+-   24 million newborns get jaundice every year.
+
+-   Up to 60% of term infants and 80% of preterm infants were found to develop neonatal jaundice in their 1st week of life, 10% of breastfed newborn developed jaundice even up to four weeks old.
+
+-   Extremely high level of bilirubin can lead to kernicterus, a rare but serious condition that causes irreversible neurological sequelae characterised by visual abnormalities, athetoid spasticity, and sensorineural hearing loss among its survivors
+
+-   It has been claimed that the essential reason behind the use of phototherapy is **to avoid the use of exchange transfusions**.
+
+## Effective Wavelength
+
+![](images/clipboard-2032126639.png){fig-align="center" width="520" height="400"}
+
+-   Most effective: **460 to 490nm**
+
+::: footer
+Source: [Computer Vision for Jaundice Detection in Neonates](https://iopscience.iop.org/article/10.1088/1757-899X/1105/1/012076)
+:::
+
+## Visual Inspection of Jaundice
+
+-   Idea is to just inspect the spread of **yellowish color on different parts of the body** of infant! Because Serum Bilirubin method is Gold standard (Invasive) while Transcutaneous Bilirobinometer also another.
+
+![](images/clipboard-1402304607.png){fig-align="center" width="427" height="241"}
+
+-   Bright Natural Light for Inspection is recommended. Every 12 hrs during initial 3 to 5 days of life
+
+-   Reasonable accuracy particularly when TSB is **less than 12 to 14 mg/dL**
+
+-   Absence of jaundice on visual inspection reliably excludes the jaundice.
+
+::: footer
+Source: [Detection, management and prevention of hyperbilirubinemia in term and late preterm newborn infants](http://clinicalestablishments.gov.in/WriteReadData/5461.pdf)
+
+Dataset paper: [NJN: Normal and Jaundices Newborns Dataset](https://www.mdpi.com/2673-7426/3/3/37)
+:::
+
+-   List all alarms.
+-   Phototheraoy range.
+-   Features.
+-   Must to have and good to have features.
+-   accuracy.
+-   Paediatrics.
