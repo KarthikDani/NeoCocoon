@@ -1,0 +1,40 @@
+QMainWindow {
+    background-color: #2e3a4e;  /* Dark blue background for main window */
+}
+QTabWidget::pane {
+    border: 1px solid #1e2a38;  /* Dark border for tabs */
+}
+QTabBar::tab {
+    background: #1e2a38;  /* Darker blue for tab headers */
+    color: white;
+    padding: 5px;
+}
+QTabBar::tab:selected {
+    background: #2e3a4e;  /* Slightly lighter blue for selected tab */
+    color: white;
+}
+QPushButton {
+    background-color: #003366;  /* Dark blue background for buttons */
+    color: white;
+    border: 1px solid #003366;
+    border-radius: 5px;
+    padding: 5px;
+}
+QPushButton:hover {
+    background-color: #004080;  /* Lighter blue on hover */
+}
+QLabel {
+    color: white;  /* White text for labels */
+}
+QLineEdit {
+    background-color: #1e2a38;  /* Dark background for line edits */
+    color: white;
+    border: 1px solid #003366;
+    padding: 5px;
+}
+QDialog {
+    background-color: #2e3a4e;  /* Dark blue background for dialogs */
+}
+QGridLayout {
+    margin: 10px;
+}
