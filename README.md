@@ -5,4 +5,5 @@ Hardware procurement:
 
 References:
 - [Tx/Rx Reference - Medium article](https://medium.com/geekculture/serial-connection-between-raspberry-pi-and-raspberry-pico-d6c0ba97c7dc)
-- [Pinout Guide](https://pinout.xyz/)
+- [Pinout Guide for RPI](https://pinout.xyz/)
+- [Pico datasheet](https://datasheets.raspberrypi.com/pico/pico-2-datasheet.pdf)
