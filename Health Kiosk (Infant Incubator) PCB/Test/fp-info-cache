@@ -1,4 +1,4 @@
-23898658807223735
+23857196233750277
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54690,6 +54690,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DC_DC_Converter
+XL4015
+
+
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -64693,6 +64700,27 @@ Yellow 5381 Series LED
 0
 2
 2
+MCU_RaspberryPi_and_Boards
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+MCU_RaspberryPi_and_Boards
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+MCU_RaspberryPi_and_Boards
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -64952,181 +64980,6 @@ ESP8266 WiFi microcontroller
 0
 16
 16
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common
-Raspberry Pi Pico (wireless & original) versatile footprint for surface-mount or through-hole hand soldering, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_MountingHoles
-Raspberry Pi Pico (wireless & original) versatile footprint for surface-mount or through-hole hand soldering, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_SMD
-Raspberry Pi Pico (wireless & original) common surface-mount footprint for reflow or hand soldering, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_SMD_MountingHoles
-Raspberry Pi Pico (wireless & original) common surface-mount footprint for reflow or hand soldering, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-80
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_THT
-Raspberry Pi Pico (wireless & original) common through-hole footprint, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-40
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Common_THT_MountingHoles
-Raspberry Pi Pico (wireless & original) common through-hole footprint, default socket model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna handsolder
-0
-40
-40
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_OptionalKeepoutRF
-Supplementary RF keepout zone for the Raspberry Pi Pico W (wireless), to be added to other Raspberry Pi Pico footprints, https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module keepout rf wireless extra addon
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_OptionalKeepoutUSB
-Supplementary USB cable keepout zone for the Raspberry Pi Pico and Pico W, to be added to other Raspberry Pi Pico footprints
-Raspberry Pi Pico module keepout usb plug port cable clearance courtyard extra addon
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_OptionalPinLabels
-Supplementary pin labels for the Raspberry Pi Pico (wireless & original), to be added to other Raspberry Pi Pico footprints, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module label extra addon
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD
-Raspberry Pi Pico (original only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd
-0
-96
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_HandSolder
-Raspberry Pi Pico (original only) surface-mount footprint with debug pads for hand soldering (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd handsolder
-0
-86
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_MountingHoles
-Raspberry Pi Pico (original only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd
-0
-96
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_MountingHoles_HandSolder
-Raspberry Pi Pico (original only) surface-mount footprint with debug pads for hand soldering (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd handsolder
-0
-86
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_SMD_MountingHoles_HandSolder_Castellated
-Raspberry Pi Pico (original only) surface-mount footprint with debug pads and castellated test points for hand soldering; requires completion of partial edge (not compatible with Pico W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module castellated usb pcb swd handsolder
-0
-95
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_Virtual
-Raspberry Pi Pico (original only) virtual footprint (no pads; not compatible with Pico W), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb virtual
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_Original_Virtual_MountingHoles
-Raspberry Pi Pico (original only) virtual footprint (no pads; not compatible with Pico W), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb virtual
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_PinSocket_1x03_P2.54mm_Vertical
-Through hole straight socket strip for individual placement alongside a virtual Raspberry Pi Pico, 1x03, 2.54mm pitch, single row, default socket model has height of 7mm
-Raspberry Pi Pico through hole socket strip THT 1x03 2.54mm single row
-0
-3
-3
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_PinSocket_1x20_P2.54mm_Vertical
-Through hole straight socket strip for individual placement alongside a virtual Raspberry Pi Pico, 1x20, 2.54mm pitch, single row, default socket model has height of 8.51mm
-Raspberry Pi Pico through hole socket strip THT 1x20 2.54mm single row
-0
-20
-20
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD
-Raspberry Pi Pico W (wireless only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna
-0
-93
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_HandSolder
-Raspberry Pi Pico W (wireless only) surface-mount footprint with debug pads for hand soldering (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna handsolder
-0
-83
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_MountingHoles
-Raspberry Pi Pico W (wireless only) surface-mount footprint for reflow soldering with test points and debug pads (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna
-0
-93
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_MountingHoles_HandSolder
-Raspberry Pi Pico W (wireless only) surface-mount footprint with debug pads for hand soldering (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module usb pcb swd antenna handsolder
-0
-83
-43
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_SMD_MountingHoles_HandSolder_Castellated
-Raspberry Pi Pico W (wireless only) surface-mount footprint with castellated test points and debug access for hand soldering; requires completion of partial edge (not compatible with original Pico), https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
-Raspberry Pi Pico module castellated usb pcb swd antenna handsolder
-0
-95
-49
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_Virtual
-Raspberry Pi Pico W (wireless only) virtual footprint (no pads; not compatible with original Pico), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna virtual
-0
-0
-0
-Module_RaspberryPi_Pico
-RaspberryPi_Pico_W_Virtual_MountingHoles
-Raspberry Pi Pico W (wireless only) virtual footprint (no pads; not compatible with original Pico), default model is offset by a height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
-Raspberry Pi Pico module usb pcb antenna virtual
-0
-0
-0
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -86932,27 +86785,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-RPi_Hat
-Pin_Header_Straight_2x20
-Through hole pin header
-pin header
-0
-40
-40
-RPi_Hat
-RPi_Hat_Mounting_Hole
-Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
-Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
-0
-0
-0
-RPi_Hat
-Samtec_HLE-120-02-XXX-DV-BE-XX-XX
-
-
-0
-40
-40
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
