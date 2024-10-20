@@ -1,0 +1,826 @@
+{
+    "sources": [
+        {
+            "URL": "https://www.who.int/publications/i/item/WHO_RHT_MSM_97.2",
+            "abstract": "This is an illustrated guide that provides a basis on which managers and health-care providers can develop their own strategies and procedures for thermal protection and management of hypothermia and hyperthermia of newborn babies.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "baby born alive before 37 weeks of pregnancy have been completed is considered prematureExtremely premature (less than 28 weeks)very premature (28 to 32 weeks)moderate to late premature (32 to 37 weeks).In 2020 = 10% (13.4 million) Premature births worldwide n 2019, approximately 900 000 children died as a result of complications related to preterm birth In low-income settings, half of children born at or before 32 weeks of gestation (i.e. two months premature) die due to a lack of feasible and cost-effective care measures & more than 90% of extremely preterm babies (less than 28 weeks’ gestation) born in low-income countries die within the first few days of life, compared to less than 10% in high-income settings. Three-quarters of these deaths could be prevented with available, cost-effective interventions premature birth rate ranges from 4% to 16% of children born in 2020",
+            "id": "noauthor_thermal_nodate",
+            "title": "Thermal protection of the newborn: A practical guide",
+            "title-short": "Thermal protection of the newborn",
+            "type": ""
+        },
+        {
+            "DOI": "10.3390/s23125719",
+            "PMID": "37420890",
+            "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10302695/",
+            "abstract": "Background: Around 15 million premature babies are born annually, requiring specialized care. Incubators are vital for maintaining their body temperature, which is crucial for their well-being. Ensuring optimal conditions in incubators, including ...",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "Abstract + Introduction: 15 million premature babies are born annually  accordint to WHO MQTT protocol tested in both the biomedical engineering laboratory and the neonatology service of the hospital Premature babies lack the body fat needed to maintain body temperature, and some of their organs are not fully developed to generate heat must be maintained between 28 and 34 °C access time of the newborn must be short to reduce the loss of heat and oxygen and avoid sudden changes in temperaturerespiratory sinus arrhythmia (RSA), which describes the relationship between respiratory and heart rate. BreathAnalyzer, a smart watch that integrates an artificial learning model based on decision trees. BreathAnalyzer outperforms state-of-the-art approaches, with an accuracy improvement of 35.37% to 80%. An average of 42% was obtained in a variety of practical scenarios, such as identifying potential arrhythmias.Standard to focus: device was exposed to a calibration test under the ISO/IEC 1725:2017 standard to guarantee its measurements“no devices or systems on the market that properly adjust to the needs of the medical field“ Internet of Things in the medical field (IoMT) is key when it comes to generating technological proposals that help implement comprehensive solutions. Limitations: “A progressive web application (PWA) was developed (SiMCa-Bio) to allow the visualization of the different monitored incubators and their measurements in real time by the healthcare and engineering staff of the hospital“: Only Temperature, Humidity and Sound were monitored programmed to perform a sampling of the variables every 5 min sending rate was programmed with a frequency of 10 min sending each data",
+            "author": [
+                {
+                    "family": "Aya-Parra",
+                    "given": "Pedro Antonio"
+                },
+                {
+                    "family": "Rodriguez-Orjuela",
+                    "given": "Andres Jacob"
+                },
+                {
+                    "family": "Torres",
+                    "given": "Viviana Rodriguez"
+                },
+                {
+                    "family": "Hernandez",
+                    "given": "Nidia Patricia Cordoba"
+                },
+                {
+                    "family": "Castellanos",
+                    "given": "Natalia Martinez"
+                },
+                {
+                    "family": "Sarmiento-Rojas",
+                    "given": "Jefferson"
+                }
+            ],
+            "container-title": "Sensors (Basel, Switzerland)",
+            "id": "aya-parra_monitoring_2023",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6
+                    ]
+                ]
+            },
+            "page": "5719",
+            "title": "Monitoring System for Operating Variables in Incubators in the Neonatology Service of a Highly Complex Hospital through the Internet of Things (IoT)",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1038/s43246-024-00511-6",
+            "ISSN": "2662-4443",
+            "URL": "https://www.nature.com/articles/s43246-024-00511-6",
+            "abstract": "Health monitoring of infant patients in intensive care can be especially strenuous for both the patient and their caregiver, as testing setups involve a tangle of electrodes, probes, and catheters that keep the patient bedridden. This has typically involved expensive and imposing machines, to track physiological metrics such as heart rate, respiration rate, temperature, blood oxygen saturation, blood pressure, and ion concentrations. However, in the past couple of decades, research advancements have propelled a world of soft, wearable, and non-invasive systems to supersede current practices. This paper summarizes the latest advancements in neonatal wearable systems and the different approaches to each branch of physiological monitoring, with an emphasis on smart skin-interfaced wearables. Weaknesses and shortfalls are also addressed, with some guidelines provided to help drive the further research needed.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "conventional monitoring practices to wearable form factors Addresses adhesive related skin injuries and promotes soft and flexible materials, gentler adhesion mechanisms, designing all-in-one devices, prioritizing non-invasive monitoring and increased accessibility, most high-risk patients suffering from prematurity (gestational age <37 weeks) and low birth weight (typically <2.5 kg)",
+            "author": [
+                {
+                    "family": "Zhou",
+                    "given": "Lauren"
+                },
+                {
+                    "family": "Guess",
+                    "given": "Matthew"
+                },
+                {
+                    "family": "Kim",
+                    "given": "Ka Ram"
+                },
+                {
+                    "family": "Yeo",
+                    "given": "Woon-Hong"
+                }
+            ],
+            "container-title": "Commun Mater",
+            "id": "zhou_skin-interfacing_2024",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Biomedical engineering, Engineering",
+            "note": "Publisher: Nature Publishing Group",
+            "page": "1-13",
+            "title": "Skin-interfacing wearable biosensors for smart health monitoring of infants and neonates",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "URL": "https://www.who.int/es/news-room/fact-sheets/detail/preterm-birth",
+            "abstract": "El nacimiento prematuro es la principal causa de mortalidad entre los recién nacidos (durante las primeras cuatro semanas de vida) y la segunda causa de muerte entre los niños menores de cinco años, después de la neumonía.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "id": "noauthor_nacimientos_nodate",
+            "title": "Nacimientos prematuros",
+            "type": ""
+        },
+        {
+            "URL": "https://www.who.int/es/news-room/fact-sheets/detail/newborn-mortality",
+            "abstract": "Los niños que mueren en los primeros 28 días de vida sufren de afecciones y enfermedades asociadas con la falta de atención de calidad al nacer o de atención y tratamiento especializados inmediatamente después del parto y en los primeros días de vida. Las mujeres que reciben atención continua dirigida por parteras profesionales, formadas y reguladas según las normas internacionales, tienen un 16% menos de probabilidades de perder a sus bebés y un 24% menos de probabilidades de experimentar un parto prematuro.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "in 2022, almost half (47%) of all deaths of children under 5 years of age occurred in the neonatal period (the first 28 days of life), which is one of the most vulnerable periods of life and requires intensive, quality care during delivery and for the newborn. 6,500 newborn deaths occur every day Due to lack of quality care at birth Most neonatal deaths (75%) occur during the first week of life",
+            "id": "noauthor_mortalidad_nodate",
+            "title": "Mortalidad neonatal",
+            "type": ""
+        },
+        {
+            "URL": "https://www.kicad.org/",
+            "abstract": "A Cross Platform and Open Source Electronics Design Automation Suite",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "id": "noauthor_kicad_nodate",
+            "title": "KiCad EDA",
+            "type": ""
+        },
+        {
+            "URL": "https://cernandsocietyfoundation.cern/news/kicad-tool-sharing-learning-and-developing",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "id": "noauthor_kicad_nodate-1",
+            "title": "KiCad - a tool for sharing, learning and developing  CERN & Society Foundation",
+            "type": ""
+        },
+        {
+            "URL": "https://link.springer.com/book/10.1007/978-1-4842-1293-6",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "Made for inexpensive low power computers in case of reduced storage volumes Enables to build and access IoT Data across multiple servers in low-cost",
+            "id": "noauthor_mysql_nodate",
+            "title": "MySQL for the Internet of Things  SpringerLink",
+            "type": ""
+        },
+        {
+            "URL": "https://www.stanfordchildrens.org/en/topic/default?id=low-birth-weight-90-P02382",
+            "abstract": "Low birth weight is a term used to describe babies who are born weighing less than 5 pounds, 8 ounces (2,500 grams). An average newborn usually weighs about 8 pounds. A low-birth-weight baby may be healthy even though he or she is small. But a low-birth-weight baby can also have many serious health problems.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "Low birth weight is a term used to describe babies who are born weighing less than 5 pounds, 8 ounces (2,500 grams) average newborn usually weighs about 8 pounds Causes of Low Birth Weight:Much of a baby’s weight is gained during the last weeks of pregnancy. Pre mature birth causes Low birth weightIntrauterine growth restriction (IUGR). This occurs when a baby does not grow well during pregnancyConsequences of Low Birth weight:Low oxygen levels at birthTrouble staying warmTrouble feeding and gaining weightInfectionBreathing problems and immature lungs (infant respiratory distress syndrome)Nervous system problems, such as bleeding inside the brain (intraventricular hemorrhage)Digestive problems, such as serious inflammation of the intestines (necrotizing enterocolitis)Sudden infant death syndrome (SIDS)Treatment for low birth weight often includes:Care in the neonatal intensive care unit (NICU)Temperature-controlled bedSpecial feedings. Sometimes these are given through a tube into the stomach if a baby cannot suck. Or they are given through an IV (intravenous) line.",
+            "id": "noauthor_low_nodate",
+            "title": "Low Birth Weight",
+            "type": ""
+        },
+        {
+            "DOI": "10.3390/biomedinformatics3030037",
+            "ISSN": "2673-7426",
+            "URL": "https://www.mdpi.com/2673-7426/3/3/37",
+            "abstract": "Neonatal jaundice is a prevalent condition among newborns, with potentially severe complications that can result in permanent brain damage if left untreated during its early stages. The existing approaches for jaundice detection involve invasive procedures such as blood sample collection, which can inflict pain and distress on the patient, and may give rise to additional complications. Alternatively, a non-invasive method using image-processing techniques and implementing kNN, Random Forest, and XGBoost machine learning algorithms as a classifier can be employed to diagnose jaundice, necessitating a comprehensive database of infant images to achieve a diagnosis with high accuracy. This data article presents the NJN collection, a repository of newborn images encompassing diverse birthweights and skin tones, spanning an age range of 2 to 8 days. The dataset is accompanied by an Excel sheet file in CSV format containing the RGB and YCrCb channel values, as well as the status of each sample. The dataset and associated resources are openly accessible at Zenodo website. Moreover, the Python code for data testing utilizing various AI techniques is provided. Consequently, this article offers an unparalleled resource for AI researchers, enabling them to train their AI systems and develop algorithms that can assist neonatal intensive care unit (NICU) healthcare specialists in monitoring neonates while facilitating the fast, real-time, non-invasive, and accurate diagnosis of jaundice.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Abdulrazzak",
+                    "given": "Ahmad Yaseen"
+                },
+                {
+                    "family": "Mohammed",
+                    "given": "Saleem Latif"
+                },
+                {
+                    "family": "Al-Naji",
+                    "given": "Ali"
+                }
+            ],
+            "container-title": "BioMedInformatics",
+            "id": "abdulrazzak_njn_2023",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9
+                    ]
+                ]
+            },
+            "keyword": "artificial intelligence (AI) techniques, hyperbilirubinemia, jaundice, NICU, skin color analysis",
+            "note": "Number: 3 Publisher: Multidisciplinary Digital Publishing Institute",
+            "page": "543-552",
+            "title": "NJN: A Dataset for the Normal and Jaundiced Newborns",
+            "title-short": "NJN",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.3390/designs5040063",
+            "ISSN": "2411-9660",
+            "URL": "https://www.mdpi.com/2411-9660/5/4/63",
+            "abstract": "Jaundice or Hyperbilirubinemia is a very common condition that affects newborns in their first few weeks of life. The main cause of jaundice is the high level of the bilirubin substance in the blood. As bilirubin is toxic to brain cells, acute bilirubin encephalopathy can occur in cases of extreme jaundice. This condition can result in brain trauma and lead to kernicterus, which causes repetitive and uncontrolled movements, a permanent upward look, and hearing loss. Thus, a timely diagnosis and treatment can help in preventing long-term damage. In this paper, a developed system based on a digital camera was proposed to diagnose and treat jaundice in newborns. The system detects jaundice and determines if the neonate needs treatment based on the analysis obtained from the real-time captured images. The treatment was achieved by using an Arduino Uno microcontroller to drive phototherapy lighting, which has proven to be an efficient treatment method for jaundice. In addition, the proposed system has the ability to send the diagnostic results to the mobile phone of the care provider. The obtained results from 20 infants inside the intensive care unit showed that the proposed system was accurate in terms of detecting jaundice, easy to implement, and affordable.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "75,000 children around the world are suffering from brain dysfunction due to jaundice complications. neonatal hyperbilirubinemia results in 114,100 avoidable neonatal deaths and many children grow up with disabilities. Proven solutions remain underused, especially in low-income countries. Transcutaneous Bilirubin (TcB), which is a non-invasive test for the detection of jaundice. Contemporary phototherapy was discovered in England when it was noticed that the skin of babies who were exposed to sunlight on a daily basis was less jaundiced than unexposed ones. Bilirubin absorbs light most significantly in the blue region of the spectrum (near 460 nm). This Light absorption by dermal and subcutaneous bilirubin causes a fraction of the pigment to undergo a series of photochemical reactions, each of which occurs at a different rate. Intensity and wavelengths of used light have a significant impact on the rate of bilirubin photoproducts development. Most efficient light source for treating hyperbilirubinemia is one that emits light in the 460 to 490 nm range of the spectrum (blue) the camera was fitted at 30 cm away from the subject, at an angle of 45 degrees and under ambient lighting conditions of 200 lux, Color transformation and Otsu thresholding techniques to detect the skin in the captured images. Limitation:MATLAB - Commercial software - No On-Device Detection",
+            "author": [
+                {
+                    "family": "Hashim",
+                    "given": "Warqaa"
+                },
+                {
+                    "family": "Al-Naji",
+                    "given": "Ali"
+                },
+                {
+                    "family": "Al-Rayahi",
+                    "given": "Izzat A."
+                },
+                {
+                    "family": "Alkhaled",
+                    "given": "Makram"
+                },
+                {
+                    "family": "Chahl",
+                    "given": "Javaan"
+                }
+            ],
+            "container-title": "Designs",
+            "id": "hashim_neonatal_2021",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "keyword": "jaundice, skin color analysis, computer vision, Hyperbilirubinemia, phototherapy",
+            "note": "Number: 4 Publisher: Multidisciplinary Digital Publishing Institute",
+            "page": "63",
+            "title": "Neonatal Jaundice Detection Using a Computer Vision System",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1038/pr.2013.208",
+            "PMID": "24366465",
+            "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873706/",
+            "abstract": "Rhesus (Rh) disease and extreme hyperbilirubinemia (EHB) result in neonatal mortality and long-term neurodevelopmental impairment, yet there are no estimates of their burden. Systematic reviews and meta-analyses were undertaken of national ...",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "annote": "Investigates neonatal hyperbilirubinemia and Rhesus disease (also called Neonatal Hemolysis), estimating their incidence and associated impairments on a global and regional scale for 2010. It highlights the need for effective screening and management strategies to prevent severe outcomes, such as neurological damage and death. The authors emphasize the importance of early diagnosis and treatment in reducing morbidity and mortality rates, suggesting that health systems prioritize these measures. Takeways:Early detection of hyper bilirubinemia is vital.Treatment protocols can mitigate long-term impairments.Incorporating screening methods could enhance your project outcomes related to neonatal health.",
+            "author": [
+                {
+                    "family": "Bhutani",
+                    "given": "Vinod K."
+                },
+                {
+                    "family": "Zipursky",
+                    "given": "Alvin"
+                },
+                {
+                    "family": "Blencowe",
+                    "given": "Hannah"
+                },
+                {
+                    "family": "Khanna",
+                    "given": "Rajesh"
+                },
+                {
+                    "family": "Sgro",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Ebbesen",
+                    "given": "Finn"
+                },
+                {
+                    "family": "Bell",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Mori",
+                    "given": "Rintaro"
+                },
+                {
+                    "family": "Slusher",
+                    "given": "Tina M."
+                },
+                {
+                    "family": "Fahmy",
+                    "given": "Nahed"
+                },
+                {
+                    "family": "Paul",
+                    "given": "Vinod K."
+                },
+                {
+                    "family": "Du",
+                    "given": "Lizhong"
+                },
+                {
+                    "family": "Okolo",
+                    "given": "Angela A."
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Almeida",
+                    "given": "Maria-Fernanda"
+                },
+                {
+                    "family": "Olusanya",
+                    "given": "Bolajoko O."
+                },
+                {
+                    "family": "Kumar",
+                    "given": "Praveen"
+                },
+                {
+                    "family": "Cousens",
+                    "given": "Simon"
+                },
+                {
+                    "family": "Lawn",
+                    "given": "Joy E."
+                }
+            ],
+            "container-title": "Pediatric Research",
+            "id": "bhutani_neonatal_2013",
+            "issue": "Suppl 1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        12
+                    ]
+                ]
+            },
+            "page": "86",
+            "title": "Neonatal hyperbilirubinemia and Rhesus disease of the newborn: Incidence and impairment estimates for 2010 at regional and global levels",
+            "title-short": "Neonatal hyperbilirubinemia and Rhesus disease of the newborn",
+            "type": "article-journal",
+            "volume": "74"
+        },
+        {
+            "abstract": "The project proposes the development of a smart infant incubator monitoring and control system that uses IoT technology to customize the care and monitoring of premature and critically ill newborns. As the system is interfaced with advanced sensors, actuators, and connective solutions to create a smart and responsive incubator environment. The system adopts with some key components such as temperature and humidity sensor for precise check of environmental conditions, gas sensor, heartbeat sensor, sound sensor and accelerometer to monitor the infant’s conditions inside the incubator and actuators such as Peltier module and humidifier are integrated to adjust the environmental conditions according to the threshold range on the processed sensor data. An LCD display provides the local feedback, while buzzer alerts the caretakers at time of critical periods. These sensors collectively provide data for the parameters as a Wi-Fi enabled microcontroller such as Arduino Wi-Fi R3 is utilized to process and transmit data which also communicates with cloud based IoT platforms. IoT application was developed using Thing speak to build an ideal communication through a Wi-Fi module, Healthcare providers can regularly monitor the infant’s condition through a designed web or mobile interface. The developed IoT interface provides real-time data acquisition, and the system incorporates automated alert mechanism by integrating a GSM module. In the matter of change in normalities beyond the threshold ranges, an automated alert message will be forwarded to the attentive doctor or caretaker through GSM.",
+            "annote": "Gas sensor + accelerometer sensor + Peltier module are used which we haven’t. If the temperature exceeds more than 36°C -37.2°Cand humidity of 60% then the microcontroller turns the Peltier and humidifier accordinglyTakeaways:Due to the ratio of the number of caregivers to the number of patients not matching i.e., more patients and fewer caregivers, the workload of the instrument-health caregiver is high, which leads to improper monitoring of the incubatorsrequired temperature should be surrounded around 36 to 37.5°Crectal temperature at around 36°ctargeted humidity range should be 40%-60%integration of AI,live monitoring of baby through camexpansion of sensor capabilities such as oxygen level monitoringLimitations:Arduino Wifi R3LCD DisplayIoT application on ThingSpeak",
+            "author": [
+                {
+                    "family": "K C N",
+                    "given": "Raju"
+                }
+            ],
+            "container-title": "INTERNATIONAL JOURNAL OF CREATIVE RESEARCH THOUGHTS",
+            "id": "k_c_n_smart_2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        3
+                    ]
+                ]
+            },
+            "page": "d786-d791",
+            "title": "SMART INFANT INCUBATOR MONITORING AND CONTROL SYSTEM USING IoT",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.35882/ijeeemi.v5i3.283",
+            "abstract": "Premature infants, with a gestational age of 37 weeks or less and weighing less than 2500 grams, face challenges in adapting to the outside world due to the underdeveloped state of their organ systems. Special care is essential to support their growth and development, including maintaining optimal temperature, humidity, and oxygen levels similar to those experienced in the mother’s womb. Baby incubators play a crucial role in providing these conditions. This study aims to develop a convenient monitoring tool for midwives and healthcare workers responsible for multiple baby incubators. The tool operates independently and is compatible with various brands of baby incubators. Leveraging an IoT system, it utilizes ESP32 and Raspberry Pi Zero W modules for data transmission. The tool incorporates a DS18B20 sensor for monitoring skin temperature and a DHT22 sensor for monitoring the temperature inside the incubator chamber. Using a pre-experimental design with an after-only research design, the tool’s measurements are compared against an incubator analyzer. The study reveals that the developed module still exhibits some measurement errors. However, despite these limitations, the research is expected to greatly assist medical personnel in simultaneously monitoring multiple baby incubators. Keywords : Premature infants, Baby incubators, IoT, Temperature, ESP32, Raspberry Pi Zero W",
+            "annote": "incubator is kept at a temperature between 32 and 36 degrees Celsius to keep the baby’s skin at a healthy 37 degrees Celsius humidity warms the baby’s breath and lets moist air into its lungs About: IoT-based baby incubator monitoring system using Raspberry Pi Zero W. Key environmental parameters such as temperature, humidity, and oxygen levels are monitored in real-time to ensure the safety of infants in incubators. The system is connected to a central computer for data visualization, alarms, and alerts, and allows remote monitoring by healthcare professionals.",
+            "author": [
+                {
+                    "family": "Ningsih",
+                    "given": "Fransiska"
+                },
+                {
+                    "family": "Irianto",
+                    "given": "Bambang"
+                },
+                {
+                    "family": "Lamidi",
+                    "given": "Lamidi"
+                },
+                {
+                    "family": "Abdulhamid",
+                    "given": "Mohanad"
+                }
+            ],
+            "container-title": "Indonesian Journal of Electronics, Electromedical Engineering, and Medical Informatics",
+            "id": "ningsih_monitoring_2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8
+                    ]
+                ]
+            },
+            "page": "116-124",
+            "title": "Monitoring Baby Incubator Central through Internet of Things (IoT) based on Raspberry Pi Zero W with Computer Monitoring)",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1515/aucts-2016-0005",
+            "URL": "https://sciendo.com/article/10.1515/aucts-2016-0005",
+            "abstract": "The objective of this paper is to achieve a functional system in terms of hardware and software, to measure temperature and humidity. Also, this...",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "About: Heating systems that require special attention, especially in winter, when the temperature is need to be constant, to have a desired comfort Solids and liquids humidity measurement is done using umidimetrelor Moisture measurement methods are based on variation in resistivity, variation of capacity or the variation in the degree of attenuation of microwaves\\\\ Takeaway:DS1307 RTC uses CR2302 3V battery type communicating via I2CDATA = 8 integer data bit RH + 8 decimal data bits RH + 8 data bits integer T + 8 decimal data bits T + 8 check-sum bit",
+            "author": [
+                {
+                    "family": "Bogdan",
+                    "given": "Mihai"
+                }
+            ],
+            "container-title": "Acta Universitatis Cibiniensis. Technical Series",
+            "id": "bogdan_sciendo_2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        12
+                    ]
+                ]
+            },
+            "page": "22-25",
+            "title": "Sciendo",
+            "type": "article-journal",
+            "volume": "68"
+        },
+        {
+            "DOI": "10.1109/TDSC.2007.70216",
+            "ISSN": "1545-5971",
+            "URL": "http://ieeexplore.ieee.org/document/4358707/",
+            "abstract": "Embedded control networks commonly use checksums to detect data transmission errors. However, design decisions about which checksum to use are difficult because of a lack of information about the relative effectiveness of available options. We study the error detection effectiveness of the following commonly used checksum computations: exclusive or (XOR), two’s complement addition, one’s complement addition, Fletcher checksum, Adler checksum, and cyclic redundancy codes (CRCs). A study of error detection capabilities for random independent bit errors and burst errors reveals that the XOR, two’s complement addition, and Adler checksums are suboptimal for typical network use. Instead, one’s complement addition should be used for networks willing to sacrifice error detection effectiveness to reduce computational cost, the Fletcher checksum should be used for networks looking for a balance between error detection and computational cost, and CRCs should be used for networks willing to pay a higher computational cost for significantly improved error detection.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "Takeaway:Checksum helps ensure reliability and integrity during communication. If calculated checksum matches the one sent by sensor . It means data is likely correct, if not it indicates error or corruption in data transmission.",
+            "author": [
+                {
+                    "family": "Maxino",
+                    "given": "T. C."
+                },
+                {
+                    "family": "Koopman",
+                    "given": "P. J."
+                }
+            ],
+            "container-title": "IEEE Trans. Dependable and Secure Comput.",
+            "id": "maxino_effectiveness_2009",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        1
+                    ]
+                ]
+            },
+            "page": "59-72",
+            "title": "The Effectiveness of Checksums for Embedded Control Networks",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.35882/jeeemi.v4i3.244",
+            "ISSN": "2656-8632",
+            "URL": "https://jeeemi.org/index.php/jeeemi/article/view/244",
+            "abstract": "A thermometer is a medical device used to measure body temperature. To maintain the accuracy of the thermometer measurement results, periodic calibration is required. Calibration is an activity to determine the conventional correctness of the indicator values of measuring instruments and measuring materials by comparing them with measurement standards that can be traced to national and international standards for units of measure and/or international and certified reference materials. Based on the results of the identification of chronological problems that have been observed, a body thermometer that measures body temperature is needed so and a calibrator is needed to maintain the accuracy of the thermometer. The purpose of this study was to analyze the Temperature Stability and Accuracy of the Body Thermometer Calibrator Based on on-Off Control and Fuzzy Logic Control. The contribution of this research to this tool will use the development of a fuzzy logic control method to produce temperature stability in the Body Thermometer Calibrator (Digital). The method used in this study used fuzzy control and on-off control. The results of this study from the suitability test obtained a maximum error of 0.2% in the fuzzy control and 0.6% in the On-Off control.  The average rise time difference for the two controls was 13.53 Seconds. The average settling time difference is 130.46 seconds. The results of this study can be concluded that the Fuzzy System is better than the On / Off system so the Fuzzy system is more suitable for thermometer calibration media.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "Higher relative humidity levels, however, are also not recommended for babies since they might promote the development of bacteria and germs",
+            "author": [
+                {
+                    "family": "Pujiastuti",
+                    "given": "Yunik"
+                },
+                {
+                    "family": "Pudji",
+                    "given": "Andjar"
+                },
+                {
+                    "family": "Setiawan",
+                    "given": "Singgih Yudha"
+                },
+                {
+                    "family": "Amrinsani",
+                    "given": "Farid"
+                },
+                {
+                    "family": "Phasinam",
+                    "given": "Khongdet"
+                }
+            ],
+            "container-title": "Journal of Electronics, Electromedical Engineering, and Medical Informatics",
+            "id": "pujiastuti_analysis_2022",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "Calibration, Calibrator, Fuzzy., Thermometer",
+            "note": "Number: 3",
+            "page": "144-153",
+            "title": "Analysis of Temperature Stability and Accuracy on the Design of Thermometer Calibrator Based on Fuzzy Logic And On/Off Control",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.53730/ijpse.v6n1.3065",
+            "ISSN": "2550-6951",
+            "URL": "https://sciencescholar.us/journal/index.php/ijpse/article/view/3065",
+            "abstract": "The Arduino ATmega 328P-based temperature and humidity measuring instrument have been successfully designed. The ATmega 328P microcontroller functions to process data which is the output of the DHT22 sensor which receives data signals in the form of temperature and humidity. The results detected by the design of this tool are displayed on the LCD keypad shield. The calibration process for the design tool was carried out at the BMKG Sanglah Denpasar. The results of the calibration of the design tool with reference tools at BMKG show a good level of accuracy, namely 97.97% for air temperature and 99.35% for air humidity.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "Aim for referring:How close are the values coming out of a reference sensor like DHT22About: designing a device that measures air temperature and humidity using the Arduino ATmega 328P microcontroller in conjunction with the DHT22 sensor. Calibration of the device was performed at BMKG Sanglah Denpasar, ensuring accuracy of measurements. Takeaways:The calibration results indicated high accuracy levels:Air Temperature Accuracy: 97.97%Air Humidity Accuracy: 99.35%",
+            "author": [
+                {
+                    "family": "Wibawa",
+                    "given": "I. Made Satriya"
+                },
+                {
+                    "family": "Putra",
+                    "given": "I. Ketut"
+                }
+            ],
+            "container-title": "International journal of physical sciences and engineering",
+            "id": "wibawa_design_2022",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "arduino, ATmega 328P, DHT22 sensor, humidity, LCD keypad shield",
+            "note": "Number: 1",
+            "page": "9-17",
+            "title": "Design of air temperature and humidity measurement based on Arduino ATmega 328P with DHT22 sensor",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.21307/ijssis-2017-910",
+            "URL": "https://sciendo.com/article/10.21307/ijssis-2017-910",
+            "abstract": "In order to realize the human body temperature fast and non-contact measurement, an infrared thermometer is designed. The infrared human body...",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "About:Focuses on using infrared human body temperature sensor  to convert the human body’s infrared into voltage signal.Experimental results show the error of the temperature is less than 0.2 C, the measurement time is about 4 seconds with the non-contact infrared thermometer.Mercury thermometer must contact with the human body , and temperature measurement process need lasted 5 to 10 minutes easy to read wrong due to external light and other factors Principle of IR Temperature measurement:If temperature of object is higher than absolute zero, EM waves radiate due to thermal motion of the moleculesA is a radiation degree, the unit is W/m3 ; αis the Stephen Pozman constant, T2 is the absolute temperature of the object, the unit is K; T1 is the ambient temperature, the unit is KTakeaways:All real objects (including the surface of the human body ), β values are less than 1.0Main radiation infrared wavelength of the human body is 9 ~~ 10μmLight in the range of 9 to 10μm is not absorbed by air, the surface temperature of the human body can be determined by infrared energy",
+            "author": [
+                {
+                    "family": "Long",
+                    "given": "Guangli"
+                }
+            ],
+            "container-title": "International Journal on Smart Sensing and Intelligent Systems",
+            "id": "long_sciendo_2016",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        6
+                    ]
+                ]
+            },
+            "page": "1110-1129",
+            "title": "Sciendo",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.3390/s23177439",
+            "ISSN": "1424-8220",
+            "URL": "https://www.mdpi.com/1424-8220/23/17/7439",
+            "abstract": "In recent years, non-contact infrared thermometers (NCITs) and infrared thermography (IRT) have gained prominence as convenient, non-invasive tools for human body temperature measurement. Despite their widespread adoption in a range of settings, there remain questions about their accuracy under varying conditions. This systematic review sought to critically evaluate the performance of NCITs and IRT in body temperature monitoring, synthesizing evidence from a total of 72 unique settings from 32 studies. The studies incorporated in our review ranged from climate-controlled room investigations to clinical applications. Our primary findings showed that NCITs and IRT can provide accurate and reliable body temperature measurements in specific settings and conditions. We revealed that while both NCITs and IRT displayed a consistent positive correlation with conventional, contact-based temperature measurement tools, NCITs demonstrated slightly superior accuracy over IRT. A total of 29 of 50 settings from NCIT studies and 4 of 22 settings from IRT studies achieved accuracy levels within a range of ±0.3 °C. Furthermore, we found that several factors influenced the performance of these devices. These included the measurement location, the type of sensor, the reference and tool, individual physiological attributes, and the surrounding environmental conditions. Our research underscores the critical need for further studies in this area to refine our understanding of these influential factors and to develop standardized guidelines for the use of NCITs and IRT.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "About:Critically evaluate the performance of NCITs and IRT in body temperature monitoring, synthesizing evidence from a total of 72 unique settings from 32 studies.Both NCITs and IRT displayed a consistent positive correlation with conventional, contact-based temperature measurement tools, NCITs demonstrated slightly superior accuracy over IRT. A total of 29 of 50 settings from NCIT studies and 4 of 22 settings from IRT studies achieved accuracy levels within a range of ±0.3 ◦CTakeaways:",
+            "author": [
+                {
+                    "family": "Zhao",
+                    "given": "Yuanzhe"
+                },
+                {
+                    "family": "Bergmann",
+                    "given": "Jeroen H. M."
+                }
+            ],
+            "container-title": "Sensors",
+            "id": "zhao_non-contact_2023",
+            "issue": "17",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "body temperature, infrared camera, infrared thermometer, non-contact thermometer, thermal scanner",
+            "note": "Number: 17 Publisher: Multidisciplinary Digital Publishing Institute",
+            "page": "7439",
+            "title": "Non-Contact Infrared Thermometers and Thermal Scanners for Human Body Temperature Monitoring: A Systematic Review",
+            "title-short": "Non-Contact Infrared Thermometers and Thermal Scanners for Human Body Temperature Monitoring",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.3389/fphys.2018.00029",
+            "ISSN": "1664-042X",
+            "URL": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00029/full",
+            "abstract": "<p><bold>Background:</bold> Skin temperature (<italic>T</italic>$_{\\textrm{skin}}$) is commonly measured using <italic>T</italic>$_{\\textrm{skin}}$ sensors affixed directly to the skin surface, although the influence of setup variables on the measured outcome requires clarification.</p><p><bold>Objectives:</bold> The two distinct objectives of this systematic review were (1) to examine measurements from contact <italic>T</italic>$_{\\textrm{skin}}$ sensors considering equilibrium temperature and temperature disturbance, sensor attachments, pressure, environmental temperature, and sensor type, and (2) to characterise the contact <italic>T</italic>$_{\\textrm{skin}}$ sensors used, conditions of use, and subsequent reporting in studies investigating sports, exercise, and other physical activity.</p><p><bold>Data sources and study selection:</bold> For the measurement comparison objective, Ovid Medline and Scopus were used (1960 to July 2016) and studies comparing contact <italic>T</italic>$_{\\textrm{skin}}$ sensor measurements <italic>in vivo</italic> or using appropriate physical models were included. For the survey of use, Ovid Medline was used (2011 to July 2016) and studies using contact temperature sensors for the measurement of human <italic>T</italic>$_{\\textrm{skin}}$<italic>in vivo</italic> during sport, exercise, and other physical activity were included.</p><p><bold>Study appraisal and synthesis methods:</bold> For measurement comparisons, assessments of risk of bias were made according to an adapted version of the Cochrane Collaboration’s risk of bias tool. Comparisons of temperature measurements were expressed, where possible, as mean difference and 95% limits of agreement (LoA). Meta-analyses were not performed due to the lack of a common reference condition. For the survey of use, extracted information was summarised in text and tabular form.</p><p><bold>Results:</bold> For measurement comparisons, 21 studies were included. Results from these studies indicated minor (&lt;0.5°C) to practically meaningful (&gt;0.5°C) measurement bias within the subgroups of attachment type, applied pressure, environmental conditions, and sensor type. The 95% LoA were often within 1.0°C for <italic>in vivo</italic> studies and 0.5°C for physical models. For the survey of use, 172 studies were included. Details about <italic>T</italic>$_{\\textrm{skin}}$ sensor setup were often poorly reported and, from those reporting setup information, it was evident that setups widely varied in terms of type of sensors, attachments, and locations used.</p><p><bold>Conclusions:</bold> Setup variables and conditions of use can influence the measured temperature from contact <italic>T</italic>$_{\\textrm{skin}}$ sensors and thus key setup variables need to be appropriately considered and consistently reported.</p>",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        20
+                    ]
+                ]
+            },
+            "annote": "About:Traditional methods involve affixing sensors directly to the skin, but this can affect measurement accuracy due to environmental disturbancesThe review included 21 studies showing that measurement bias can range from minor (<<0.5°C) to significant (>>0.5°C), depending on the setupTakeaways:Setup variables significantly influence temperature readings from contact sensors. Consistent reporting of these variables is essential for accurate interpretation and comparison across studies",
+            "author": [
+                {
+                    "family": "MacRae",
+                    "given": "Braid A."
+                },
+                {
+                    "family": "Annaheim",
+                    "given": "Simon"
+                },
+                {
+                    "family": "Spengler",
+                    "given": "Christina M."
+                },
+                {
+                    "family": "Rossi",
+                    "given": "René M."
+                }
+            ],
+            "container-title": "Front. Physiol.",
+            "id": "macrae_skin_2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "agreement, comparability, measurement bias, measurement error, Skin Temperature, Thermometry, validity",
+            "note": "Publisher: Frontiers",
+            "title": "Skin Temperature Measurement Using Contact Thermometry: A Systematic Review of Setup Variables and Their Effects on Measured Values",
+            "title-short": "Skin Temperature Measurement Using Contact Thermometry",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "abstract": "With the advancement of technology, touch screens are getting more attention of researchers to make life of mankind comfortable. This paper presents the design/construction, development and the various technologies behind touch screen using IEEE Standard 1621 A touchscreen is basically act as a input device .It takes input from by a proprietary pen or by human touch. There is no requirement of external devices like keyboard, mouse etc. because it takes directly input from its screen.",
+            "annote": "About:Helps to decide whether to pick Resistive Touch screen or Capacitive Touch screenThe touchscreen enables the user to interact directly with what is displayed, rather than using a mouse, touchpad, or other such devices (other than a stylus, which is optional for most modern touchscreens) Resistive Touch screen:Resistive touch screen is made up of several layers i.e. (resistive layers and protective layers) with a conductive gap in between.It works on the same concept of potentiometer .we apply voltage at the two terminals of the potentiometer and then analog voltage corresponding to the length is sensed by the jack in a potentiometer.Position of pressure is read when two layers become connected at a point, where the panel behaves as voltage divider at touched pointCapacitive touch screen:Highly accurate and low response timemade up of only one insulating layer like glass, and inside it there is a conductive film present which is used to detect the touch.Detects based on change in screen’s electric field.Takeaway: Since capacitive touch screen has characteristic to detect only human touch or any conductive body. While resistive touch screen can detect any touch whether it is conductive or non-conductive. It is safer to consider to use a capacitive touch screen.",
+            "author": [
+                {
+                    "family": "Sharma",
+                    "given": "Harshit"
+                }
+            ],
+            "container-title": "International Journal of Engineering Research",
+            "id": "sharma_review_2017",
+            "issue": "23",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "title": "A Review Paper on Touch Screen",
+            "type": "article-journal",
+            "volume": "5"
+        }
+    ],
+    "project_biblios": []
+}
