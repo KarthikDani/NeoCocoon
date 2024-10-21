@@ -37,6 +37,20 @@ Development System}
     B.M.S College of Engineering \\
   Bangalore - 560019 \\
   \texttt{\href{mailto:darshan.ml22@bmsce.ac.in}{\nolinkurl{darshan.ml22@bmsce.ac.in}}} \\
+   \And
+    Dr.~H. N. Suma
+   \\
+    Dean Innovation \\
+    B.M.S College of Engineering \\
+  Bangalore - 560019 \\
+  \texttt{\href{mailto:hns.ml@bmsce.ac.in}{\nolinkurl{hns.ml@bmsce.ac.in}}} \\
+   \And
+    Mr.~Balaji Raghavendra S
+   \\
+    Founder and CEO \\
+    Piroya Technologies \\
+  Bangalore - 560019 \\
+  \texttt{\href{mailto:balaji.s@piroya.com}{\nolinkurl{balaji.s@piroya.com}}} \\
   }
 
 
@@ -576,11 +590,32 @@ processing and communication between devices.
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
   \textbf{PCB Design:} The use of KiCAD {[}16{]} for PCB design allows
   for precise generation of schematics and layouts. This structured
   approach ensures that the hardware is optimally configured for
-  subsequent processes. {[}17{]}
+  subsequent processes. {[}17{]}. See figure \ref{fig:fig5} for
+  schematic and figure \ref{fig:fig6} for layout design
+\end{enumerate}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=300pt,height=250pt]{images/schematic.jpeg} % Adjust the path to your image
+  \caption{Schematic containing circuits seperated as different sections for enhancing readability.}
+  \label{fig:fig5}
+\end{figure}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=300pt,height=280pt]{images/pcb.png} % Adjust the path to your image
+  \caption{PCB incorporating power delivery, communication, connectors, microcontroller reset button and power noise filter.}
+  \label{fig:fig6}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
 \item
   \textbf{Microcontroller Programming:} The workflow effectively
   leverages the capabilities of the Raspberry Pi Pico 2 through
@@ -592,9 +627,10 @@ processing and communication between devices.
 \item
   \textbf{Microprocessor Programming:} Implementing Python 3.12 on the
   Raspberry Pi 5 facilitates a robust programming environment for
-  developing the device's user interface. Python's extensive libraries
-  simplify complex programming tasks, making it an ideal choice for
-  creating responsive and interactive applications.
+  developing the device's user interface (See figure \ref{fig:fig7} and
+  figure \ref{fig:fig8}). Python's extensive libraries simplify complex
+  programming tasks, making it an ideal choice for creating responsive
+  and interactive applications.
 \item
   \textbf{Data Transmission Protocols:} Sensor data is communicated
   through I2C and Analog. The transmission of raw data from the
@@ -614,6 +650,20 @@ processing and communication between devices.
   This approach to data organization ensures that information can be
   retrieved quickly.
 \end{enumerate}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=450pt,height=280pt]{images/ui1.png} % Adjust the path to your image
+  \caption{Touch screen based Main Graphical user Interface shwowing vital health parameters for quick look and easy interaction.}
+  \label{fig:fig7}
+\end{figure}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=450pt,height=260pt]{images/ui2.png} % Adjust the path to your image
+  \caption{GUI based History access for more insights during realtime monitoring.}
+  \label{fig:fig8}
+\end{figure}
 
 \paragraph{Paying attention to Non Contact Infrared Temperature (NCIT)
 Measurement}\label{paying-attention-to-non-contact-infrared-temperature-ncit-measurement}
